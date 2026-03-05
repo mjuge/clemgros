@@ -2,6 +2,7 @@
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
+	"homepage": "https://mjuge.github.io/clemgros",
 	"author": {
 		"name": "Clément Gros",
 		"email": "clement.gros@psl.eu",
