@@ -105,7 +105,7 @@ function article_5() {
 		date: "Février à juillet 20223",
 		title: "REVUE REGARDS | Journaliste stagiaire ",
 		description:
-			"Mon premier stage dans le métier s'est déroulé pendant la période électorale de la présidentielle et des législatives. La taille réduite de la rédaction constituait un avantage : j'avais toute liberté pour proposer et réaliser des sujets variés (reportages, récits), ce qui m’a même permis de réaliser une première  enquête : à propos des conditions de travail dégradées et de l'état de vétusté des équipements dans le lycée Voillaume d'Aulnay-sous-Bois.",
+			"Mon premier stage dans le métier s'est déroulé pendant la période électorale de la présidentielle et des législatives. La taille réduite de la rédaction constituait un avantage : j'avais toute liberté pour proposer et réaliser des sujets variés (reportages, récits), ce qui m’a même permis de réaliser une première  enquête, à propos des conditions de travail dégradées et de l'état de vétusté des équipements dans le lycée Voillaume d'Aulnay-sous-Bois.",
 		style: ``,
 		keywords: [
 			"REVUE REGARDS",

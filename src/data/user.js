@@ -133,7 +133,7 @@ const INFO = {
 					title: "Amazon, Cdiscount, King Jouet... La méthode des entreprises pour gagner la bataille des recrutements pour Noël",
 					description:
 						"À partir de novembre, les entreprises du commerce de détail ou de la logistique font face à un pic d'activité. De quoi obliger ces employeurs à développer des stratégies pour attirer une main-d'œuvre intérimaire.",
-					logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqWxYUJozFg_mY3QSvpYDPAEoAYc5bdnYqA&s",
+					logo: "https://i.f1g.fr/media/cms/704x396_cropupscale/2024/11/27/c8bdd3a091c52aae02fef9bc6c98e15db41e99dcf244c1f518230245794b63fe.jpg",
 					linkText: "Voir l'article",
 					link: "https://www.lefigaro.fr/societes/amazon-cdiscount-king-jouet-la-methode-des-entreprises-pour-gagner-la-bataille-des-recrutements-pour-noel-20241128",
 				},
@@ -141,7 +141,7 @@ const INFO = {
 					title: "Forest Automobile, la success-story de la voiture made in Hauts-de-France tourne au vinaigre",
 					description:
 						"Forest Automobile, une société créée en 2022 dans l'Aisne, fait face à de sérieuses difficultés. Elle est actuellement confrontée à des plaintes de clients mécontents, des problèmes d'homologation et une enquête de la répression des fraudes.",
-					logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqWxYUJozFg_mY3QSvpYDPAEoAYc5bdnYqA&s",
+					logo: "https://i.f1g.fr/media/cms/704x396_cropupscale/2025/02/14/a8ae0205decb15860cf276abc71705696dafd3a3eea769ea189895e53b61ed63.jpg",
 					linkText: "Voir l'article",
 					link: "https://www.lefigaro.fr/automobile/forest-automobile-la-success-story-de-la-voiture-made-in-hauts-de-france-tourne-au-vinaigre-20250214",
 				},
@@ -149,7 +149,7 @@ const INFO = {
 					title: "Aulnay-sous-Bois : comment l’État a abandonné le lycée Voillaume",
 					description:
 						"Manque de moyens, profs menacés de mort… face à l’urgence, le rectorat de Seine-Saint-Denis et la région Île-de-France sont aux abonnés absents.",
-					logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqWxYUJozFg_mY3QSvpYDPAEoAYc5bdnYqA&s",
+					logo: "https://focus.huffingtonpost.fr/2022/12/12/0/12/1463/823/728/409/75/0/07b3cd9_1670842373344-screenshot-2022-12-12-11-52-46.png",
 					linkText: "Voir l'article",
 					link: "https://regards.fr/article-aulnay-sous-bois-comment-l-etat-a-abandonne-le-lycee-voillaume/",
 				},
