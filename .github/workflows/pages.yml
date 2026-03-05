@@ -24,7 +24,7 @@ jobs:
       - run: npm run build
         env:
           CI: false
-          PUBLIC_URL: /clemgros/
+          PUBLIC_URL: /about/
 
       - uses: actions/upload-pages-artifact@v3
         with:
