@@ -21,7 +21,7 @@ const INFO = {
 	about: {
 		title: "Clément Gros",
 		description:
-			"Journaliste depuis 2022, j'ai développé une expertise dans le traitement de l'actualité politique et économique à travers des expériences dans des rédactions aux lignes éditoriales variées. Formé à la rigueur journalistique chez Contexte, j'ai appris à vérifier systématiquement mes sources et à privilégier l'information à valeur ajoutée. Au Figaro, j'ai acquis les clés du journalisme web : maîtrise de la SEO, production de contenus réactifs et capacité à construire une ligne éditoriale cohérente. J'aime utiliser la documentation administrative, législative et les rapports de politiques publiques comme point de départ d'un récit journalistique : pour trouver des sujets neufs.",
+			"Journaliste depuis 2022, j'ai développé une expertise dans le traitement de l'actualité politique et économique à travers des expériences dans des rédactions aux lignes éditoriales variées. Formé à la rigueur journalistique chez Contexte, j'ai appris à vérifier systématiquement mes sources et à privilégier l'information à valeur ajoutée. Au Figaro, j'ai acquis les clés du journalisme web : maîtrise de la SEO, production de contenus réactifs et capacité à construire une ligne éditoriale cohérente. J'aime utiliser la documentation administrative, législative et les rapports de politiques publiques comme point de départ d'un récit journalistique pour trouver des sujets neufs.",
 	},
 
 	articles: {
