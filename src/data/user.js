@@ -2,14 +2,14 @@ const INFO = {
 	main: {
 		title: "Clément Gros",
 		name: "Clément Gros",
-		email: "clement.gros@psl.eu",
+		email: "cgros.pro@proton.me",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		linkedin: "https://www.linkedin.com/in/cl%C3%A9ment-gros-a713a4205/?originalSubdomain=fr",
 		bluesky: "https://bsky.app/profile/clemogro.bsky.social",
-		email: "clement.gros@psl.eu"
+		email: "cgros.pro@proton.me"
 	},
 
 	homepage: {
